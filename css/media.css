@@ -1,0 +1,224 @@
+@media (max-width: 575.98px) {
+
+.h-content p {
+    font-size: 17px;
+    letter-spacing: 4px;
+}
+.h-content h3 {
+    font-size: 13px;
+    letter-spacing: 7px;
+}
+.protfolio {
+    padding-top: 26px;
+}
+.s-content h1 {
+    font-size: 17px;
+    letter-spacing: 12px;
+}
+.s-content p {
+    font-size: 14px;
+}
+.s-content p {
+    font-size: 13px;
+    color: #f4f4f4 margin-top:25px;
+    margin-bottom: 15px;
+}
+.s-content h3 {
+    font-size: 10px;
+}
+.box4 {
+    margin-bottom: 25px;
+}
+.b-box {
+    margin-bottom: 25px;
+}
+.pr-content h1 {
+    font-size: 18px;
+    letter-spacing: 8px;
+    
+}
+.pr-content h4 {
+    font-size: 12px;
+}
+.box1 {
+    
+    margin-top: 19px;
+}
+.plogo img {
+    padding-bottom: 2px;
+    padding-top: 25px;
+}
+.protfolio {
+    padding-top: 26px;
+    padding-bottom: 0;
+}
+.vedio {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.cr-content p {
+    font-size: 15px;
+    margin-bottom: 37px;
+}
+.box-p p {
+    font-size: 9px;
+    letter-spacing: 1px;
+    padding: 10px;
+    bottom: -111px;
+}
+.box2-p img {
+    top: 103px;
+    height: 200px;
+    width: 200px;
+    right: 0%;
+}
+.protfolio-image {
+    margin-top: 15px;
+}
+.banner-2-content p {
+    font-size: 13px;
+    padding-bottom: 30px;
+    margin-top: 125px;
+}
+.f-content h3 {
+    font-size: 11px;
+    text-align: center;
+}
+.f-content h4 {
+    text-align: center;
+}
+.f-menu {
+    text-align: center;
+}
+.f-about-us {
+    text-align: center;
+}
+.f-contact button {
+    margin-left: 18px;
+}
+.icon {
+  
+    margin-left: 78px;
+}
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+
+	.box4 {
+    background-color: white;
+    padding: 10px 50px 10px 10px;
+    margin-bottom: 16px;
+}
+.b-box {
+    margin-bottom: 10px;
+}
+.box1 {
+    margin-bottom: 43px;
+}
+.protfolio-image {
+    text-align: center;
+    margin-bottom: 15px;
+}
+.protfolio {
+    
+    padding-bottom: 0;
+}
+.s-content p {
+    font-size: 15px;
+}
+.card{
+	margin-bottom: 30px;
+
+}
+.cr-content p {
+    font-size: 14px;
+    /* margin-right: 177px; */
+    margin-bottom: 28px;
+    margin-left: 274px;
+    /* margin-top: 3px; */
+}
+.box-p p {
+    font-size: 15px;
+    background-color: black;
+    padding: 5px;
+    
+    bottom: -99px;
+}
+.box2-p img {
+    position: absolute;
+    top: 63px;
+    right: -86px;
+    height: 200px;
+    width: 200px;
+}
+.box-p p {
+    font-size: 11px;
+    letter-spacing: 0px;
+    bottom: -150px;
+    margin-right: 282px;
+}
+.banner-2-content p {
+    display: none;
+}
+.icon {
+    margin-top: 35px;
+    margin-left: 189px;
+}
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.h-content p {
+    
+    letter-spacing: 10px;
+}
+.h-content h3 {
+    font-size: 12px;
+    letter-spacing: 8px;
+}
+.s-content h1 {
+    letter-spacing: 13px;
+}.s-content p {
+    font-size: 16px;
+}
+.box {
+    
+    padding-top: 17px;
+}
+.box2 {
+    
+    padding-top: 15px;
+    padding-bottom: 35px;
+}
+.service-part {
+    padding-bottom: 51px;
+}
+.box-p p {
+    font-size: 13px;
+    letter-spacing: 0px;
+    padding: 4px;
+    position: absolute;
+    bottom: -100px;
+}
+.box2-p img {
+    position: absolute;
+    top: 110px;
+    margin-left: -16px;
+}
+.cr-content p {
+    font-size: 14px;
+}
+.banner-2-content p {
+    font-size: 14px;
+    
+}
+.f-contact button {
+    padding: 6px 30px;
+}
+.icon {
+    margin-left: 19px;
+}
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+@media (min-width: 1200px) {
+}
